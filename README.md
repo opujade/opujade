@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uri</h1>
 <h3 align="center">I'm a frontend developer from Barcelona</h3>
 
-- 🌱 Licensed using **ReactJS at the Barcelona ITAcademy**
+- 👨‍🎓 Coursed **ReactJS at the Barcelona ITAcademy**
 
 - 📫 How to reach me **opujade.dev@gmail.com**
 
